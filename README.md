@@ -114,10 +114,22 @@ Additional features like **total duration in minutes** are engineered for better
 
 ---
 
-##  Results
+##  Screenshots
 
-![Flight Finder Demo](demo.gif)
+### Home Page
+![Home](assets/title_screen.png)
 
+### Recommended Flights
+![Select Flight](assets/rec_fli.png)
+
+### Choose Ticket Type
+![Selected Flight](assets/ti_type.png)
+
+### Choose Departure Time
+![Timing](assets/de_time.png)
+
+### Filtered Flights
+![Flights](assets/recfinal.png)
 ---
 
 ## 📷 User Interface
